@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>eos新板测试</title>
+      <link href="/posts/15f7/"/>
+      <url>/posts/15f7/</url>
+      
+        <content type="html"><![CDATA[<p>从这里开始</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 娱乐 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 測試 </tag>
+            
+            <tag> web3 </tag>
+            
+            <tag> 股票 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>每一句都是真的，组合是假的</title>
       <link href="/posts/6933/"/>
       <url>/posts/6933/</url>
@@ -62,16 +91,16 @@
     
     
     <entry>
-      <title>eos新板测试</title>
-      <link href="/posts/15f7/"/>
-      <url>/posts/15f7/</url>
+      <title>eomotion</title>
+      <link href="/posts/55e2/"/>
+      <url>/posts/55e2/</url>
       
-        <content type="html"><![CDATA[<p>从这里开始</p>]]></content>
+        <content type="html"><![CDATA[<p>就是這樣簡單的嗎</p><blockquote><p>从语雀同步文章到本地时，文章会自动转为 markdown 格式，而通常这个文章是没有分类和标签的，为了能够让文章同步到博客时，更加融洽，需要在编写语雀文章时，添加语雀插件自带的 Font-matter 插件的头部格式。<br>也就是说，<strong>需要在语雀编辑器中</strong>，标题一下，正文以上的部位，添加如下内容</p></blockquote>]]></content>
       
       
       <categories>
           
-          <category> 娱乐 </category>
+          <category> 綜合 </category>
           
       </categories>
       
@@ -120,11 +149,11 @@
     
     
     <entry>
-      <title>eomotion</title>
-      <link href="/posts/55e2/"/>
-      <url>/posts/55e2/</url>
+      <title>華為報銷規則，效率超級高</title>
+      <link href="/posts/71a1/"/>
+      <url>/posts/71a1/</url>
       
-        <content type="html"><![CDATA[<p>就是這樣簡單的嗎</p><blockquote><p>从语雀同步文章到本地时，文章会自动转为 markdown 格式，而通常这个文章是没有分类和标签的，为了能够让文章同步到博客时，更加融洽，需要在编写语雀文章时，添加语雀插件自带的 Font-matter 插件的头部格式。<br>也就是说，<strong>需要在语雀编辑器中</strong>，标题一下，正文以上的部位，添加如下内容</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p>如何保证 95%的人高速通过就是靠这套规则，<br>接下来我们看看华为基于人性的洞察怎么去设计流程，我们看看这里啊，<br>第一个华为的流程呢，它反过来，它首先把钱先打给员工，所以那接下来问题来了，你如果把钱先给了员工，万一这个员工不诚信怎么办？对不对？<br>肯定有这种情况，<br>接下来看看华为的设计，<br>这个你们在外面是听不到的，<br>华为基于游戏规则，当你刚进公司的时候，<br>你的等级是 B，你对应的分数是 80 到 90 分，<br>大家注意看啊，这游戏通关规则，你的报销周期两周 15 天，大家想啊，华为 20 万人，<br>172 个国家两天两周之内能够到账，这个效率已经很高了，注意看，<br>后面抽检比例 20%就五单里面会抽一张，如果过了半年一年，你的单据一直都是合规，你的等级就升到 B 加，然后呢，你的报销周期缩短一周，同时你的抽检比例下降一半，<br>如果过了两三年。一直表现好，你就到了 a，就到了五天，全球到站，你的抽检比例只有 5%，这个 5%是事后抽检，但是对不起，如果发现有一单造假，你的等级就降到 C，你的报销周期增加一倍到一个月，而且抽检比例是 100%，如果又发现你造假，对不起等级继续下降到第到 45 天，然后 100%加四先审核，这些都是事后，而且发现一单之后，全员通报开除。<br><img src="https://s2.loli.net/2022/08/18/pvXqi9y6uCO37e8.png#crop=0&crop=0&crop=1&crop=1&height=226&id=DD674&originHeight=334&originWidth=596&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=&width=404"></p>]]></content>
       
       
       <categories>
@@ -149,27 +178,58 @@
     
     
     <entry>
-      <title>華為報銷規則，效率超級高</title>
-      <link href="/posts/71a1/"/>
-      <url>/posts/71a1/</url>
+      <title>学习hexo的相关网站</title>
+      <link href="/posts/a480/"/>
+      <url>/posts/a480/</url>
       
-        <content type="html"><![CDATA[<p>如何保证 95%的人高速通过就是靠这套规则，<br>接下来我们看看华为基于人性的洞察怎么去设计流程，我们看看这里啊，<br>第一个华为的流程呢，它反过来，它首先把钱先打给员工，所以那接下来问题来了，你如果把钱先给了员工，万一这个员工不诚信怎么办？对不对？<br>肯定有这种情况，<br>接下来看看华为的设计，<br>这个你们在外面是听不到的，<br>华为基于游戏规则，当你刚进公司的时候，<br>你的等级是 B，你对应的分数是 80 到 90 分，<br>大家注意看啊，这游戏通关规则，你的报销周期两周 15 天，大家想啊，华为 20 万人，<br>172 个国家两天两周之内能够到账，这个效率已经很高了，注意看，<br>后面抽检比例 20%就五单里面会抽一张，如果过了半年一年，你的单据一直都是合规，你的等级就升到 B 加，然后呢，你的报销周期缩短一周，同时你的抽检比例下降一半，<br>如果过了两三年。一直表现好，你就到了 a，就到了五天，全球到站，你的抽检比例只有 5%，这个 5%是事后抽检，但是对不起，如果发现有一单造假，你的等级就降到 C，你的报销周期增加一倍到一个月，而且抽检比例是 100%，如果又发现你造假，对不起等级继续下降到第到 45 天，然后 100%加四先审核，这些都是事后，而且发现一单之后，全员通报开除。<br><img src="https://s2.loli.net/2022/08/18/pvXqi9y6uCO37e8.png#crop=0&crop=0&crop=1&crop=1&height=226&id=DD674&originHeight=334&originWidth=596&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=&width=404"></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="唐志勇的博客"><a href="#唐志勇的博客" class="headerlink" title="唐志勇的博客"></a>唐志勇的博客</h3><p><a href="https://tzy1997.com/articles/hexo1604/">https://tzy1997.com/articles/hexo1604/</a><br>:::success<br>这里有详细的butterfly 主题相关设置 比官方文档好的地方是  简体的<br>:::</p><h3 id="使用abbrlink设置永久链接为随机值"><a href="#使用abbrlink设置永久链接为随机值" class="headerlink" title="使用abbrlink设置永久链接为随机值"></a>使用abbrlink设置永久链接为随机值</h3><p><a href="https://cloud.tencent.com/developer/article/1936315">https://cloud.tencent.com/developer/article/1936315</a></p><blockquote><p>详细设置方法</p></blockquote><h3 id="实现语雀写完文章能够自动同步到-hexo"><a href="#实现语雀写完文章能够自动同步到-hexo" class="headerlink" title="实现语雀写完文章能够自动同步到 hexo"></a>实现语雀写完文章能够自动同步到 hexo</h3><p><a href="https://bbs.pediy.com/thread-260866.htm">https://bbs.pediy.com/thread-260866.htm</a></p><blockquote><p>非常详细的部署方法</p></blockquote>]]></content>
       
       
       <categories>
           
-          <category> 綜合 </category>
+          <category> 娱乐 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 測試 </tag>
+            <tag> web3 </tag>
+            
+            <tag> 股票 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如果能重来</title>
+      <link href="/posts/ddb5/"/>
+      <url>/posts/ddb5/</url>
+      
+        <content type="html"><![CDATA[<p>现在，请闭上眼<br>想象一下，2060年，你已经七老八十了，坐在空无一人的房间，臃肿老态，没钱没势，生活都不能自理，<br>你对上帝许了一个愿望:求求你，让我再年轻一次吧!<br>上帝说:“好的”。<br>于是，你慢慢睁开眼，回到了2022年的今天<br>那这次，您打算怎么活?<br><img src="https://s2.loli.net/2022/08/20/HouwB9eFWhNgY2U.png#crop=0&crop=0&crop=1&crop=1&id=B2TyP&originHeight=252&originWidth=377&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title="></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 每日更新 </category>
+          
+          <category> 股票 </category>
+          
+          <category> 学习案例 </category>
+          
+      </categories>
+      
+      
+        <tags>
             
             <tag> web3 </tag>
             
             <tag> 股票 </tag>
+            
+            <tag> 视野破茧 </tag>
             
         </tags>
       
