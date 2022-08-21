@@ -178,33 +178,6 @@
     
     
     <entry>
-      <title>学习hexo的相关网站</title>
-      <link href="/posts/a480/"/>
-      <url>/posts/a480/</url>
-      
-        <content type="html"><![CDATA[<h3 id="唐志勇的博客"><a href="#唐志勇的博客" class="headerlink" title="唐志勇的博客"></a>唐志勇的博客</h3><p><a href="https://tzy1997.com/articles/hexo1604/">https://tzy1997.com/articles/hexo1604/</a><br>:::success<br>这里有详细的butterfly 主题相关设置 比官方文档好的地方是  简体的<br>:::</p><h3 id="使用abbrlink设置永久链接为随机值"><a href="#使用abbrlink设置永久链接为随机值" class="headerlink" title="使用abbrlink设置永久链接为随机值"></a>使用abbrlink设置永久链接为随机值</h3><p><a href="https://cloud.tencent.com/developer/article/1936315">https://cloud.tencent.com/developer/article/1936315</a></p><blockquote><p>详细设置方法</p></blockquote><h3 id="实现语雀写完文章能够自动同步到-hexo"><a href="#实现语雀写完文章能够自动同步到-hexo" class="headerlink" title="实现语雀写完文章能够自动同步到 hexo"></a>实现语雀写完文章能够自动同步到 hexo</h3><p><a href="https://bbs.pediy.com/thread-260866.htm">https://bbs.pediy.com/thread-260866.htm</a></p><blockquote><p>非常详细的部署方法</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 综合 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> web3 </tag>
-            
-            <tag> 股票 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>github测试</title>
       <link href="/posts/a420/"/>
       <url>/posts/a420/</url>
