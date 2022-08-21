@@ -13,18 +13,18 @@
       
       <categories>
           
-          <category> 娱乐 </category>
+          <category> 综合 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 測試 </tag>
-            
             <tag> web3 </tag>
             
             <tag> 股票 </tag>
+            
+            <tag> 測試 </tag>
             
         </tags>
       
@@ -42,18 +42,18 @@
       
       <categories>
           
-          <category> 娱乐 </category>
+          <category> 综合 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 測試 </tag>
-            
             <tag> web3 </tag>
             
             <tag> 股票 </tag>
+            
+            <tag> 測試 </tag>
             
         </tags>
       
@@ -71,47 +71,18 @@
       
       <categories>
           
-          <category> 娱乐 </category>
+          <category> 综合 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 測試 </tag>
-            
             <tag> web3 </tag>
             
             <tag> 股票 </tag>
             
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>eomotion</title>
-      <link href="/posts/55e2/"/>
-      <url>/posts/55e2/</url>
-      
-        <content type="html"><![CDATA[<p>就是這樣簡單的嗎</p><blockquote><p>从语雀同步文章到本地时，文章会自动转为 markdown 格式，而通常这个文章是没有分类和标签的，为了能够让文章同步到博客时，更加融洽，需要在编写语雀文章时，添加语雀插件自带的 Font-matter 插件的头部格式。<br>也就是说，<strong>需要在语雀编辑器中</strong>，标题一下，正文以上的部位，添加如下内容</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 綜合 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
             <tag> 測試 </tag>
-            
-            <tag> web3 </tag>
-            
-            <tag> 股票 </tag>
             
         </tags>
       
@@ -129,18 +100,47 @@
       
       <categories>
           
-          <category> 綜合 </category>
+          <category> 综合 </category>
           
       </categories>
       
       
         <tags>
             
+            <tag> web3 </tag>
+            
+            <tag> 股票 </tag>
+            
             <tag> 測試 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>eomotion</title>
+      <link href="/posts/55e2/"/>
+      <url>/posts/55e2/</url>
+      
+        <content type="html"><![CDATA[<p>就是這樣簡單的嗎</p><blockquote><p>从语雀同步文章到本地时，文章会自动转为 markdown 格式，而通常这个文章是没有分类和标签的，为了能够让文章同步到博客时，更加融洽，需要在编写语雀文章时，添加语雀插件自带的 Font-matter 插件的头部格式。<br>也就是说，<strong>需要在语雀编辑器中</strong>，标题一下，正文以上的部位，添加如下内容</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 综合 </category>
+          
+      </categories>
+      
+      
+        <tags>
             
             <tag> web3 </tag>
             
             <tag> 股票 </tag>
+            
+            <tag> 測試 </tag>
             
         </tags>
       
@@ -158,18 +158,18 @@
       
       <categories>
           
-          <category> 綜合 </category>
+          <category> 综合 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 測試 </tag>
-            
             <tag> web3 </tag>
             
             <tag> 股票 </tag>
+            
+            <tag> 測試 </tag>
             
         </tags>
       
@@ -187,7 +187,7 @@
       
       <categories>
           
-          <category> 娱乐 </category>
+          <category> 综合 </category>
           
       </categories>
       
@@ -205,11 +205,11 @@
     
     
     <entry>
-      <title>如果能重来</title>
-      <link href="/posts/ddb5/"/>
-      <url>/posts/ddb5/</url>
+      <title>github测试</title>
+      <link href="/posts/a420/"/>
+      <url>/posts/a420/</url>
       
-        <content type="html"><![CDATA[<p>现在，请闭上眼<br>想象一下，2060年，你已经七老八十了，坐在空无一人的房间，臃肿老态，没钱没势，生活都不能自理，<br>你对上帝许了一个愿望:求求你，让我再年轻一次吧!<br>上帝说:“好的”。<br>于是，你慢慢睁开眼，回到了2022年的今天<br>那这次，您打算怎么活?<br><img src="https://s2.loli.net/2022/08/20/HouwB9eFWhNgY2U.png#crop=0&crop=0&crop=1&crop=1&id=B2TyP&originHeight=252&originWidth=377&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title="></p>]]></content>
+        <content type="html"><![CDATA[<p>现在，请闭上眼<br>20220821 上传测试<br><img src="https://s2.loli.net/2022/08/20/HouwB9eFWhNgY2U.png#crop=0&crop=0&crop=1&crop=1&id=B2TyP&originHeight=252&originWidth=377&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title="></p>]]></content>
       
       
       <categories>
@@ -225,11 +225,46 @@
       
         <tags>
             
+            <tag> 视野破茧 </tag>
+            
             <tag> web3 </tag>
             
             <tag> 股票 </tag>
             
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如果能重来</title>
+      <link href="/posts/ddb5/"/>
+      <url>/posts/ddb5/</url>
+      
+        <content type="html"><![CDATA[<p>现在，请闭上眼<br>现在，请闭上眼<br>想象一下，2060年，你已经七老八十了，坐在空无一人的房间，臃肿老态，没钱没势，生活都不能自理，<br>你对上帝许了一个愿望:求求你，让我再年轻一次吧!<br>上帝说:“好的”。<br>于是，你慢慢睁开眼，回到了2022年的今天<br>那这次，您打算怎么活?<br><img src="https://s2.loli.net/2022/08/20/HouwB9eFWhNgY2U.png#crop=0&crop=0&crop=1&crop=1&id=m26YJ&originHeight=252&originWidth=377&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title="></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 每日更新 </category>
+          
+          <category> 股票 </category>
+          
+          <category> 学习案例 </category>
+          
+          <category> 视野破茧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
             <tag> 视野破茧 </tag>
+            
+            <tag> web3 </tag>
+            
+            <tag> 股票 </tag>
             
         </tags>
       
